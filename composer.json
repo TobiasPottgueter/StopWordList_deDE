@@ -1,6 +1,7 @@
 {
 	"name": "tobiaspottgueter/stopwordlist_dede",
 	"type": "library",
+	"license": "MIT",
 	"description": "StopWordList deDE",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
