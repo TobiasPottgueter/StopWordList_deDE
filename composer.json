@@ -28,7 +28,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"TobiasPottgueter\\StopWordList\\de_DE": "src/"
+			"TobiasPottgueter\\StopWordList\\deDE": "src/"
 		}
 	}
 }
