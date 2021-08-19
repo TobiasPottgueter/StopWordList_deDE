@@ -1,0 +1,34 @@
+{
+	"name": "tobiaspottgueter/stopwordlist_de_de",
+	"type": "library",
+	"description": "StopWordList de_DE",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"config": {
+		"preferred-install": "dist",
+		"optimize-autoloader": true,
+		"secure-http": false,
+		"sort-packages": true
+	},
+	"authors": [
+		{
+			"name": "Tobias Pottgüter",
+			"email": "tobias.pottgueter@googlemail.com"
+		}
+	],
+	"repositories": [
+		{
+			"url": "https://github.com/TobiasPottgueter/StopWords.git",
+			"type": "git"
+		}
+	],
+	"require": {
+		"php": ">=7.2",
+		"tobiaspottgueter/stopwords": "*"
+	},
+	"autoload": {
+		"psr-0": {
+			"TobiasPottgueter\\StopWordList\\de_DE": "src/"
+		}
+	}
+}
