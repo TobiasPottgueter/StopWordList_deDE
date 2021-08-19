@@ -1,7 +1,7 @@
 {
-	"name": "tobiaspottgueter/stopwordlist_de_de",
+	"name": "tobiaspottgueter/stopwordlist_dede",
 	"type": "library",
-	"description": "StopWordList de_DE",
+	"description": "StopWordList deDE",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"config": {
