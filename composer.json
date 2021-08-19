@@ -17,12 +17,6 @@
 			"email": "tobias.pottgueter@googlemail.com"
 		}
 	],
-	"repositories": [
-		{
-			"url": "https://github.com/TobiasPottgueter/StopWords.git",
-			"type": "git"
-		}
-	],
 	"require": {
 		"php": ">=7.2",
 		"tobiaspottgueter/stopwords": "*"
