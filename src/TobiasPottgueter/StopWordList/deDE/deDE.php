@@ -13,7 +13,7 @@ class deDE
 	/**
 	 * @var string[]
 	 */
-	private $stopWords = [
+	private $stopWords = array(
 		'a',
 		'ab',
 		'aber',
@@ -634,12 +634,12 @@ class deDE
 		'über',
 		'überhaupt',
 		'übrigens',
-	];
+	);
 
 	/**
 	 * @return string[]
 	 */
-	public function getStopWords(): array {
+	public function getStopWords() {
 		return $this->stopWords;
 	}
 }
